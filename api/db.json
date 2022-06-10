@@ -1,0 +1,54 @@
+{
+  "streams": [
+    {
+      "title": "xQc",
+      "description": "Welcome to the Jungle  ",
+      "id": 1
+    },
+    {
+      "title": "Tyler1",
+      "description": "idiot plays League of Legends",
+      "id": 2
+    },
+    {
+      "title": "Moxy",
+      "description": "Playing OW",
+      "id": 3
+    },
+    {
+      "title": "AdeptTheBest",
+      "description": "Mommy Milkers",
+      "id": 4
+    },
+    {
+      "title": "AsmonGold",
+      "description": "playing World of Warcraft",
+      "userId": "101958170629265294948",
+      "id": 5
+    },
+    {
+      "title": "Pokimane",
+      "description": "Join me simps",
+      "userId": "101958170629265294948",
+      "id": 6
+    },
+    {
+      "title": "Tayyeb",
+      "description": "Ultra God Gamer",
+      "userId": "101958170629265294948",
+      "id": 7
+    },
+    {
+      "title": "Maya",
+      "description": "fucking Birds",
+      "userId": "101958170629265294948",
+      "id": 8
+    },
+    {
+      "title": "pewdipie",
+      "description": "i am gay",
+      "userId": "101958170629265294948",
+      "id": 9
+    }
+  ]
+}
